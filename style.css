@@ -1,0 +1,212 @@
+.navbar{
+    background-color:black !important;
+}
+
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.navbar-toggler{
+    background-color: white !important;
+}
+
+.link1{
+    background-color:#75E900;
+    text-align: center;
+}
+
+.fa-user-circle-o, .fa-shopping-cart, .fa-facebook, .fa-twitter, .fa-instagram, .fa-phone{
+    font-size: 25px;
+}
+
+.fa-facebook{
+    color: blue;
+}
+.fa-twitter{
+    color: deepskyblue;
+}
+.fa-instagram{
+    color: brown;
+}
+.fa-phone{
+    color: greenyellow;
+}
+a{
+    display: inline;
+}
+
+@media only screen and (max-width:600px){
+    #g{
+        text-align: center;
+        justify-content: center;
+    }
+    #pw{
+        margin: auto auto;
+    }
+}
+@media only screen and (max-width:2000px){
+    #card-package{
+        margin: 10px auto;
+    }
+}
+
+#quality{
+    justify-content: center;
+    text-align: center;
+}
+
+h3, strong{
+   color: #75E900; 
+}
+
+.ab{
+    color: #75E900;
+    text-align: center;
+    font-family: serif;
+    font-weight: bold;
+}
+.abo{
+    color: white;
+    text-align: justify;
+    font-size: 25px;
+}
+#pack{
+    margin: auto auto;
+}
+#card-package{
+    background-color: #75E900;
+    width: 800px;
+    text-align: center;
+    font-weight: bold;
+}
+#btn-package{
+    background-color: #75E900;
+}
+#card-header-package{
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer{
+background-color: black;
+}
+.foot{
+    background-color: #75E900;
+}
+
+.f{
+    font-size: 15px !important;
+}
+.bg{
+    background-color: #75E900;
+}
+.fa-whatsapp{
+    color: #75E900;
+}
+.fa-envelope-o{
+    color: red;
+}
+
+#map{
+    width:100%;
+}
+
+#bac{
+    background-color: #75E900;
+}
+
+.we{
+    color: red;
+    text-align: center;
+    text-shadow: 3px 2px 5px grey;
+}
+.me{
+    color: red;
+    text-align: center;
+    text-shadow: 3px 2px 5px grey;
+    font-size: 70px;
+}
+.mee{
+    color: red;
+    text-align: center;
+    text-shadow: 3px 2px 5px grey;
+}
+.text{
+    color: #75E900;
+    font-size: 25px;
+    text-align: justify;
+}
+
+#card-price{
+    margin: 5px 5px 5px 5px;
+}
+
+#btn-price{
+    background-color: black;
+    color: white;
+    width:100%;
+}
+#btn-price1{
+    background-color: #75E900;
+    color:white;
+    width:100%;
+}
+#contactform{
+    background-color: #75E900;
+}
+#mainoffice{
+    text-align:center;
+    color: white;
+    font-weight: bold;
+}
+#offer{
+    text-align:center;
+    color: white;
+    font-size: 25px;
+}
+#address{
+    text-align:center;
+    color: white;
+    font-size: 12px;
+}
+#number{
+    text-align:center;
+    color: white;
+    font-size: 30px;
+}
+.submitbutton{
+    background-color: green;
+    width:100%;
+    color: white;
+    font-weight: bold;
+}
+.thankyou{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+}
+.trust{
+    color:#75E900;
+    font-size: 33px;
+    text-align: center;
+}
+   
+.homepage{
+    text-align: center;
+    font-size: 12px;
+}
+.homepage1{
+    color: white;
+    background-color: red;
+    justify-content: center;
+}
+#logo{
+    text-align: justify;
+}
+.wee{
+    color: red;
+    text-shadow: 3px 2px 5px grey;
+}

@@ -37,7 +37,7 @@ a{
     display: inline;
 }
 
-@media only screen and (max-width:800px){
+@media only screen and (max-width:1000px){
     #g{
         text-align: center;
         justify-content: center;

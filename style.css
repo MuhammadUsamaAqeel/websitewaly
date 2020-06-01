@@ -37,7 +37,7 @@ a{
     display: inline;
 }
 
-@media only screen and (max-width:600px){
+@media only screen and (max-width:800px){
     #g{
         text-align: center;
         justify-content: center;
@@ -211,7 +211,7 @@ background-color: black;
     text-shadow: 3px 2px 5px grey;
 }
 .dis{
-    font-size:50px;
+    font-size:45px;
     font-weight:bold;
 }
     
